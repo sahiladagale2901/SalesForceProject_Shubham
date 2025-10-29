@@ -1,0 +1,22 @@
+Git is a Version Control System (VCS)
+
+
+1. You can go back to previous versions if something breaks.
+2. You can work on new features without affecting the main project.
+3. You can collaborate with others without overwriting each other’s work.
+
+
+What is GitHub:
+                    GitHub is an online platform that hosts your Git repositories on the cloud —
+so you can store, share, and collaborate with others easily.
+
+
+Commands:
+1. git init =====> Initialise
+2. git config --global user.name "Your Name"
+3. git config --global user.email "your_email@example.com"
+4. git config --global user.password "password"
+5. git status ===> Check add file and not added file
+6. git remote add origin git@github.com:sahiladagale2901/SalesForceProject_Shubham.git
+7. git remote -v   ===> Check connection
+8. git branch --show-current
