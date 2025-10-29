@@ -20,3 +20,7 @@ Commands:
 6. git remote add origin git@github.com:sahiladagale2901/SalesForceProject_Shubham.git
 7. git remote -v   ===> Check connection
 8. git branch --show-current
+    git branch =====> list of all branch
+9. git add . ===> add all files
+10. git commit -m "message"  ====> staging area to local repo
+11. git push -u origin main   ===> local to remote
