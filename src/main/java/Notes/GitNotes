@@ -23,4 +23,4 @@ Commands:
     git branch =====> list of all branch
 9. git add . ===> add all files
 10. git commit -m "message"  ====> staging area to local repo
-11. git push -u origin main   ===> local to remote
+11. git push -u origin main   ===> local repo to remote repo
